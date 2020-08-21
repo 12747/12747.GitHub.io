@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://12747.github.io</id>
     <title>资源分享</title>
-    <updated>2020-08-21T12:03:34.810Z</updated>
+    <updated>2020-08-21T12:36:40.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://12747.github.io"/>
     <link rel="self" href="https://12747.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://12747.github.io/images/avatar.png</logo>
     <icon>https://12747.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 资源分享</rights>
+    <entry>
+        <title type="html"><![CDATA[喜马拉雅独家出品的四大名著儿童广播剧(在手机上更佳）]]></title>
+        <id>https://12747.github.io/post/xi-ma-la-ya-du-jia-chu-pin-de-si-da-ming-zhu-er-tong-guang-bo-ju-zai-shou-ji-shang-geng-jia/</id>
+        <link href="https://12747.github.io/post/xi-ma-la-ya-du-jia-chu-pin-de-si-da-ming-zhu-er-tong-guang-bo-ju-zai-shou-ji-shang-geng-jia/">
+        </link>
+        <updated>2020-08-21T12:27:11.000Z</updated>
+        <content type="html"><![CDATA[<p>1.找到“喜马拉雅”</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft]]></title>
         <id>https://12747.github.io/post/microsoft/</id>
