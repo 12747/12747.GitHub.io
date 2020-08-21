@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://12747.github.io</id>
     <title>资源分享</title>
-    <updated>2020-08-21T11:12:52.014Z</updated>
+    <updated>2020-08-21T12:03:34.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://12747.github.io"/>
     <link rel="self" href="https://12747.github.io/atom.xml"/>
@@ -10,6 +10,28 @@
     <logo>https://12747.github.io/images/avatar.png</logo>
     <icon>https://12747.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 资源分享</rights>
+    <entry>
+        <title type="html"><![CDATA[Microsoft]]></title>
+        <id>https://12747.github.io/post/microsoft/</id>
+        <link href="https://12747.github.io/post/microsoft/">
+        </link>
+        <updated>2020-08-21T11:52:04.000Z</updated>
+        <content type="html"><![CDATA[<p>404，错误！<br>
+抱歉，没有找到你要的内容，检查你的拼写、语法，或我们删除了此内容！谢谢你查看Microsoft！从内容与2020.8.21 19：42时过期!</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 10更新BUG非常多，Wit's is?]]></title>
+        <id>https://12747.github.io/post/windows-10-geng-xin-bug-fei-chang-duo-wits-is/</id>
+        <link href="https://12747.github.io/post/windows-10-geng-xin-bug-fei-chang-duo-wits-is/">
+        </link>
+        <updated>2020-08-21T11:28:51.000Z</updated>
+        <content type="html"><![CDATA[<p>现在Windows 10最新预览版（21H1/2009）20190，已持续一周了，本来Microsoft应该推出20195的更新，可是因为更新BUG过多，才没有推出20195的更新，如下图：<br>
+<img src="https://12747.github.io/post-images/1598009978575.png" alt="" loading="lazy">Microsoft下周应该会解决吧。<br>
+追梦，无畏<br>
+未经允许不得转发，违者必究！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[电脑管家小团队版]]></title>
         <id>https://12747.github.io/post/dian-nao-guan-jia-xiao-tuan-dui-ban/</id>
@@ -23,7 +45,8 @@
 都能显示<img src="https://12747.github.io/post-images/1598006851619.png" alt="" loading="lazy"></p>
 <!-- more -->还有预警设置![](https://12747.github.io/post-images/1598007625605.png)轻松部署电脑管家小团队版！
 <!-- more -->怎样?好用吧。
-<figure data-type="image" tabindex="1"><img src="https://12747.github.io/post-images/1598008075935.png" alt="" loading="lazy"></figure>
+<p><img src="https://12747.github.io/post-images/1598008075935.png" alt="" loading="lazy"><br>
+未经允许不得转发，违者必究！</p>
 ]]></content>
     </entry>
     <entry>
