@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://12747.github.io</id>
     <title>资源分享</title>
-    <updated>2020-08-21T06:07:16.919Z</updated>
+    <updated>2020-08-21T11:12:52.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://12747.github.io"/>
     <link rel="self" href="https://12747.github.io/atom.xml"/>
@@ -10,6 +10,22 @@
     <logo>https://12747.github.io/images/avatar.png</logo>
     <icon>https://12747.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 资源分享</rights>
+    <entry>
+        <title type="html"><![CDATA[电脑管家小团队版]]></title>
+        <id>https://12747.github.io/post/dian-nao-guan-jia-xiao-tuan-dui-ban/</id>
+        <link href="https://12747.github.io/post/dian-nao-guan-jia-xiao-tuan-dui-ban/">
+        </link>
+        <updated>2020-08-21T10:00:55.000Z</updated>
+        <content type="html"><![CDATA[<p>你用过电脑管家个人版吗？比如：<br>
+<img src="https://12747.github.io/post-images/1598005102562.png" alt="" loading="lazy">，是不是？</p>
+<!-- more -->但是，最近电脑管家推出了小团队版。你了解吗？![](https://12747.github.io/post-images/1598006416520.png)
+<p>无任何广告，管理员轻松查看设备状态，危险会提示，关键是免费，免费！轻松创建投放（投票），已装软件<br>
+都能显示<img src="https://12747.github.io/post-images/1598006851619.png" alt="" loading="lazy"></p>
+<!-- more -->还有预警设置![](https://12747.github.io/post-images/1598007625605.png)轻松部署电脑管家小团队版！
+<!-- more -->怎样?好用吧。
+<figure data-type="image" tabindex="1"><img src="https://12747.github.io/post-images/1598008075935.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[微软壁纸官网]]></title>
         <id>https://12747.github.io/post/wei-ruan-bi-zhi-guan-wang/</id>
