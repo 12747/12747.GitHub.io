@@ -3,14 +3,20 @@
   <head>
     <meta charset="utf-8" >
 
-<title>微软壁纸官网 | 资源分享</title>
+<title>微软壁纸官网 | 草原美景（资源分享）</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://12747.github.io/favicon.ico?v=1598063563892">
+<link rel="shortcut icon" href="https://12747.github.io/favicon.ico?v=1598093630452">
 <link rel="stylesheet" href="https://12747.github.io/styles/main.css">
 
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
 
 
 <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
@@ -29,8 +35,8 @@
   <div class="top-container" data-aos="fade-right">
     <div class="top-header-container">
       <a class="site-title-container" href="https://12747.github.io">
-        <img src="https://12747.github.io/images/avatar.png?v=1598063563892" class="site-logo">
-        <h1 class="site-title">资源分享</h1>
+        <img src="https://12747.github.io/images/avatar.png?v=1598093630452" class="site-logo">
+        <h1 class="site-title">草原美景（资源分享）</h1>
       </a>
       <div class="menu-btn" @click="menuVisible = !menuVisible">
         <div class="line"></div>
@@ -123,6 +129,12 @@ Windows 壁纸各种各样:其中 Fluent Design 新拟态设计风格的壁纸�
             
 
             
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
 
           </div>
 
@@ -145,6 +157,29 @@ var app = new Vue({
 </script>
 
 
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: '',
+        clientSecret: '',
+        repo: 'https://12747.github.io',
+        owner: '',
+        admin: [''],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
 
 
 
