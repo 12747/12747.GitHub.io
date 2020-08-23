@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://12747.github.io</id>
     <title>草原美景（资源分享）</title>
-    <updated>2020-08-23T12:04:43.192Z</updated>
+    <updated>2020-08-23T12:27:54.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://12747.github.io"/>
     <link rel="self" href="https://12747.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://12747.github.io/images/avatar.png</logo>
     <icon>https://12747.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 草原美景（资源分享）</rights>
+    <entry>
+        <title type="html"><![CDATA[紧急通知|备用网址出现不稳定状态，必看！]]></title>
+        <id>https://12747.github.io/post/jin-ji-tong-zhi-orbei-yong-wang-zhi-chu-xian-bu-wen-ding-zhuang-tai-bi-kan/</id>
+        <link href="https://12747.github.io/post/jin-ji-tong-zhi-orbei-yong-wang-zhi-chu-xian-bu-wen-ding-zhuang-tai-bi-kan/">
+        </link>
+        <updated>2020-08-23T12:18:37.000Z</updated>
+        <content type="html"><![CDATA[<p>备用网址出现不稳定状态，现在已关闭网址!</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google新闻（应用)，适合China（中国）！]]></title>
         <id>https://12747.github.io/post/google-xin-wen-ying-yong-gua-he-chinazhong-guo/</id>
@@ -57,13 +66,11 @@ Google用户:Google新闻（应用）有各种各样的新闻，100%好用<br>
         <link href="https://12747.github.io/post/ci-wang-zhan-ping-lun-gong-neng-yi-kai-qi-qing-wu-fa-bu-qiao-zha-nei-rong-102-ban-gong-gao-bi-kan-xia/">
         </link>
         <updated>2020-08-22T10:54:44.000Z</updated>
-        <content type="html"><![CDATA[<p>备用网址：http://localhost:4000/，备用网址会显示不安全，不管即可<br>
-注：评论需要有一个GitHub帐户，登录完成后即可评论。<br>
+        <content type="html"><![CDATA[<p>注：评论需要有一个GitHub帐户，登录完成后即可评论。<br>
 已知问题：<br>
 1.登录GitHub时出现404（错误）页面<br>
 2.评论少于5个字将会被我误删除。<br>
-3.https://12747.github.io响应可能很慢，方法一：建议等待一会儿  方法二：转到备用网址，<br>
-会快一点。<br>
+3.https://12747.github.io响应可能很慢，方法：建议等待一会儿 !<br>
 主网址和备用网址：类型、主题、内容......都不变，唯一是备用网址的响应会快一点。😀😀😀😀😀😀😀😀<br>
 未经允许不得转发，违者必究！</p>
 ]]></content>
@@ -75,8 +82,7 @@ Google用户:Google新闻（应用）有各种各样的新闻，100%好用<br>
         </link>
         <updated>2020-08-22T10:03:31.000Z</updated>
         <content type="html"><![CDATA[<p>OS版本号：1.01 已升级至：1.02，我已开启评论功能，请勿发布敲诈内容，网站名称已更改至草原美景<br>
-（资源分享）https://12747.github.io安全网站暂时收不到更新推送，备用（相同）网站<br>
-（具体网址请看下一篇文章）<br>
+（资源分享）此网站暂时收不到更新推送！<br>
 已推送1.02版，请勿在网上敲诈。<br>
 1.02版的评论已上线https://12747.github.io上推送，仍然（包括此文章）差不多！<br>
 下章节精彩!<br>
@@ -176,37 +182,6 @@ Windows 壁纸各种各样:其中 Fluent Design 新拟态设计风格的壁纸�
 包含有：Surface Studio 2、Surface Book 2、Surface Pro X、Surface Pro 7、Surface Laptop 3 15、Surface Laptop 3 13、Surface Go、Mobile (small)、Mobile。<br>
 网址：https://wallpaperhub.app<br>
 未经允许不得转发，违者必究！</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gridea]]></title>
-        <id>https://12747.github.io/post/hello-gridea/</id>
-        <link href="https://12747.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>✍️  <strong>Gridea为</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>✍️  <strong>Gridea为</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~<br>
-不允许在此网页上敲诈！</p>
 ]]></content>
     </entry>
 </feed>
